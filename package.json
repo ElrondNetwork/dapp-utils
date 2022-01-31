@@ -24,7 +24,7 @@
   },
   "peerDependencies": {
     "react": "17.x",
-    "@elrondnetwork/erdjs": "8.x"
+    "@elrondnetwork/erdjs": "9.x"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "5.12.0",
